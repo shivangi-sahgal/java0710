@@ -15,6 +15,10 @@ public class Program6 {
 		System.out.println("not eglible for voting5");
 		System.out.println("not eglible for vote");
 		System.out.println("not at all eglible for vote");
+System.out.println("not eglible for voting5");
+		System.out.println("not eglible for vote");
+		System.out.println("not at all eglible for vote");
+		
 		
 
 	}
