@@ -1,0 +1,23 @@
+
+import java.util.Scanner;
+
+public class Program6 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int age;
+		Scanner sc=new Scanner((System.in));
+		System.out.println(" enter age");
+		age=sc.nextInt();
+		if(age>=18)
+			System.out.println(" eglible for voting");
+		else
+			System.out.println("not eglible for voting5");
+
+	}
+
+}
+output:-
+ enter age
+5
+not eglible for voting
